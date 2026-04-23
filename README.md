@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am currently working on Infosys<br>I'am currently learning AI Gen AI and Agentic AI
+I'am currently working on Infosys<br>I'am currently learning AI Gen AI and Agentic AI<br>Currently based in Bengaluru, open to challenging opportunities in QA Engineering, Test Automation.
 
 
 # 💻 Tech Stack:
